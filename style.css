@@ -1,0 +1,44 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+.shital
+{
+    position: sticky;
+    top: 0;
+    width: 100;
+    border: 2px solid #4CAF50;
+}
+.nav-item{                                   
+    background-color: black;
+    border-radius: 10px;
+    padding: 3px 17px;
+
+  
+}
+
+
+.nav-item li{
+    float: left;   /*when we float some one then its overflow from his parent.*/
+    list-style:none;
+    margin: 13px 20px;
+
+}
+.nav-item li a{
+
+padding: 3px 3px;
+text-decoration: none;
+color: white;
+}
+.search{
+    float: float;
+    color: white;
+    border-radius: 2px;
+    padding: 12px 75px;
+}
+.aa img{
+    scroll-snap-type: both proximity;
+    float: left;
+
+}
